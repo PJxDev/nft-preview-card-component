@@ -21,6 +21,17 @@ The designs were created to the following widths:
 - Very dark blue (line): hsl(215, 32%, 27%)
 - White: hsl(0, 0%, 100%)
 
+
+###
+    --Soft-blue: #8bacda;
+    --Cyan: #00fff7;    
+    --Very-dark-blue-main-BG: #0d192b;
+    --Very-dark-blue-card-BG: #14253d;
+    --Very-dark-blue-line: #2f415b;
+    --White: #ffffff;
+###
+
+
 ## Typography
 
 ### Body Copy
